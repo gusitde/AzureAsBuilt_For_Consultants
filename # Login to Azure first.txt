@@ -1,0 +1,4 @@
+# Login to Azure first
+# az login --use-device-code  
+# For USGOV: az cloud set --name AzureUSGovernment 
+# For Azure Commercial Cloud: az cloud set --name AzureCloud

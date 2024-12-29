@@ -65,6 +65,9 @@ Creates a Word document with the fetched data, including:
 - Table of Contents
 - Detailed Sections for each Azure service
 
+### To Logon to Azure sing Ubuntu Terminal
+https://github.com/gusdellazure/asbuilt/blob/main/logontoazureliux.md
+
 ### Main Function
 
 Coordinates the data loading, processing, and document generation.

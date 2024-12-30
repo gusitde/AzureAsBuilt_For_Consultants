@@ -1,6 +1,10 @@
 # Asbuilt For Azure
 As Built Azure documentation
 
+# Stipt initial Creeator:  Assuncao, Gustavo
+
+# Licensing: not allowed to sell or claim onwership without approval
+
 # As-Built Document Generation Script
 
 This script generates an As-Built document for Azure resources within specified subscription IDs. It gathers data about various Azure services, processes the information, and creates a Word document summarizing the details.

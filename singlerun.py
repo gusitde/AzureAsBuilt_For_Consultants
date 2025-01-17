@@ -252,7 +252,7 @@ def generate_document(sections, counts, filename='asbuilt.docx'):
 
 def main():
     logging.info("Starting the As-Built Document generation process.")
-    subscription_id = '5514d116-97eb-4cfc-927f-b03826fcc9cc'
+    subscription_id = 'XXXXXXX-97eb-4cfc-927f-b03826fcc9cc'
     resource_client, network_client = load_azure_data(subscription_id)
     all_resources = fetch_resources(resource_client)
     network_details = fetch_network_details(network_client)
